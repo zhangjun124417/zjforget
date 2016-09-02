@@ -1,0 +1,22 @@
+{
+  "name": "vue-slider",
+  "version": "0.0.1",
+  "description": "vue-slider",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangjun124417/zjforget.git"
+  },
+  "keywords": [
+    "vue-slider"
+  ],
+  "author": "zj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangjun124417/zjforget/issues"
+  },
+  "homepage": "https://github.com/zhangjun124417/zjforget#readme"
+}
